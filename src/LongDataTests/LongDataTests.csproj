@@ -28,4 +28,8 @@
     <ProjectReference Include="..\protobuf-net\protobuf-net.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Update="SourceLink.Create.GitHub" Version="2.8.3" />
+  </ItemGroup>
+
 </Project>

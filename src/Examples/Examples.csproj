@@ -88,4 +88,7 @@
   <ItemGroup>
     <None Update="..\Tools\nwind.proto.bin" Link="nwind.proto.bin" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Update="SourceLink.Create.GitHub" Version="2.8.3" />
+  </ItemGroup>
 </Project>
